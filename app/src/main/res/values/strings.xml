@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <string name="title01">10 Best Practices for Moving to a Single Activity</string>
+    <string name="title02">Cost of a Pixel Color (Android Dev Summit 18)</string>
+    <string name="title03">Foldables, App Bundles and more from Android Dev Summit 18!</string>
+    <string name="title04">Fun with LiveData (Android Dev Summit 18)</string>
+    <string name="title05">Keynote (Android Dev Summit 18)</string>
+    <string name="title06">Modern WebView Best Practices (Android Dev Summit 18)</string>
+    <string name="title07">Performance Analysis Using Systrace (Android Dev Summit 18)</string>
+    <string name="title08">Preferential Practices for Preferences (Android Dev Summit 18)</string>
+    <string name="title09">That’s a wrap on Android Dev Summit 2018!</string>
+    <string name="title10">Vitals: Past, Present and Future (Android Dev Summit 18)</string>
+</resources>
